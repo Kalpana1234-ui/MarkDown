@@ -1,4 +1,6 @@
 # Daily Learning
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ## Morning Planning
 
 ## Review
@@ -36,5 +38,4 @@ Convert an image or video from dark mode to light mode using [ffmpeg](https://ww
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
 
-![Mona the Octocat](myrepo/original.png)
-![Mona the Octocat](https://octodex.github.com/images/original.png)
+
